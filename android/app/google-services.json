@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856561056075",
+    "project_id": "dijlah-store",
+    "storage_bucket": "dijlah-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856561056075:android:1e51f7d3fd5dd24b3010ce",
+        "android_client_info": {
+          "package_name": "com.dijlahstore.ibtechiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856561056075-j2ker9knp65trgniqkp75ejg7o98n483.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dijlahstore.ibtechiq",
+            "certificate_hash": "3ecfde14719d6af5b2261c26fc055d0a6b421862"
+          }
+        },
+        {
+          "client_id": "856561056075-elqnjiijvs6fqpc0e20g4scq6gbdgc3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1oWvvny5GhRmXhxRatxsJqwNjN5HrjyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856561056075-elqnjiijvs6fqpc0e20g4scq6gbdgc3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
